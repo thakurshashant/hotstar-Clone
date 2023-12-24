@@ -1,8 +1,44 @@
-# React + Vite
+# Disney+Hotstar Clone (Front-end)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A front-end clone of Disney+Hotstar, built with React. This project replicates the user interface and key features of the popular streaming platform.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+
+## Features
+
+1. **Responsive Design:** Ensure a seamless experience across various devices.
+2. **User Authentication:** Allow users to register and log in securely.
+3. **Content Catalog:** Display a diverse range of movies, TV shows, sports, and originals.
+4. **Search and Filter:** Implement a robust search functionality with filters.
+5. **Video Streaming:** Enable smooth streaming of high-quality video content.
+6. **Subscription Plans:** Offer different subscription plans with varying features.
+7. **Personalized Recommendations:** Provide content recommendations based on user preferences.
+8. **User Profiles:** Allow users to create and manage profiles within a single account.
+9. **Watchlist:** Enable users to add content to a watchlist for later viewing.
+10. **Download for Offline Viewing:** Allow users to download content for offline access.
+
+## Technologies Used
+
+- React
+- Javascript
+- React Router
+- React Dom
+- Redux for state management
+- Firebase for user authentication
+- Post CSs
+- Tailwind CSS
+- Vite
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/disney-hotstar-clone.git --
+   ```

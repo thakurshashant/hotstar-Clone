@@ -1,5 +1,7 @@
 # Disney+Hotstar Clone (Front-end)
 
+This project in under work . Only front end part is done bakend has to be done .
+
 A front-end clone of Disney+Hotstar, built with React. This project replicates the user interface and key features of the popular streaming platform.
 
 ## Table of Contents
